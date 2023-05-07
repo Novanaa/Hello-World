@@ -1,0 +1,20 @@
+    <form class="main-form">
+      <div class="container-form">
+        <div class="head-form">
+          <p>CONTACT US</p>
+        </div>
+        <div class="name">
+          <label for="Name" class="label-name">Name</label>
+          <input type="text" />
+        </div>
+        <div class="email-form">
+          <label for="email" class="label-name">Email</label>
+          <input type="text" />
+        </div>
+        <div class="message">
+          <label for="message" class="label-name">Message</label>
+          <input type="text" />
+        </div>
+        <input type="submit" />
+      </div>
+    </form>
